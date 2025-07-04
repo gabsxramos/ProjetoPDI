@@ -27,17 +27,17 @@ As fotos foram tiradas com fundo branco e preto em diferentes posições para au
 
 Para que o notebook funcione corretamente, a seguinte estrutura de pastas é recomendada:
 
-trabalho pdi/
-├── fruit_dataset.ipynb
-├── metadata.json
-├── fruits_heic/ <-- Pasta com as imagens originais em formato .HEIC
-├── fruits_png/ <-- Pasta para as imagens convertidas para .PNG
-├── fruits_classes/ <-- Pasta final com as imagens redimensionadas e separadas por classe
-│ ├── acerola/
-│ ├── banana/
-│ ├── ... (outras classes)
-└── utils/
-└── show_images.py
+trabalho pdi/<br>
+├── fruit_dataset.ipynb<br>
+├── metadata.json<br>
+├── fruits_heic/ <-- Pasta com as imagens originais em formato .HEIC<br>
+├── fruits_png/ <-- Pasta para as imagens convertidas para .PNG<br>
+├── fruits_classes/ <-- Pasta final com as imagens redimensionadas e separadas por classe<br>
+│ ├── acerola/<br>
+│ ├── banana/<br>
+│ ├── ... (outras classes)<br>
+└── utils/<br>
+└── show_images.py<br>
 
 
 ## ⚙️ Dependências
