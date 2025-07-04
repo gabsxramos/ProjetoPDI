@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>1483188</id>
+      <name>Frutas_Completo</name>
+      <size>200</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-07-02 00:30:00.551158+00:00</created>
+      <updated>2025-07-02 00:36:22.056736+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>199</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>2631175</id>
+          <start>0</start>
+          <stop>199</stop>
+          <url>https://app.cvat.ai/api/jobs/2628994</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>eduardo85</username>
+        <email>duduwbr@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>acerola</name>
+          <color>#61bab0</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>limao</name>
+          <color>#2d77c7</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>tomate_cereja</name>
+          <color>#6891d3</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>caqui</name>
+          <color>#8bb655</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>banana</name>
+          <color>#80c080</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>lima</name>
+          <color>#a85838</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>limao_laranja</name>
+          <color>#f1da8f</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>abacate</name>
+          <color>#97d4d5</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>bergamota</name>
+          <color>#8cab08</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>pera</name>
+          <color>#a88364</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2025-07-02 02:24:16.771897+00:00</dumped>
+  </meta>
+  <image id="0" name="0-01-V1-B.png" width="336" height="448">
+    <box label="acerola" source="file" occluded="0" xtl="125.73" ytl="209.51" xbr="206.38" ybr="289.36" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="0-01-V1-W.png" width="336" height="448">
+    <box label="acerola" source="file" occluded="0" xtl="132.15" ytl="218.34" xbr="210.39" ybr="288.15" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="0-01-V2-B.png" width="336" height="448">
+    <box label="acerola" source="file" occluded="0" xtl="127.73" ytl="193.86" xbr="219.22" ybr="272.10" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="0-01-V2-W.png" width="336" height="448">
+    <box label="acerola" source="file" occluded="0" xtl="134.15" ytl="194.66" xbr="231.66" ybr="282.14" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="0-02-V1-B.png" width="336" height="448">
+    <box label="acerola" source="file" occluded="0" xtl="117.77" ytl="180.51" xbr="220.90" ybr="279.35" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="0-02-V1-W.png" width="336" height="448">
+    <box label="acerola" source="file" occluded="0" xtl="118.30" ytl="211.13" xbr="217.68" ybr="302.98" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="0-02-V2-B.png" width="336" height="448">
+    <box label="acerola" source="file" occluded="0" xtl="125.82" ytl="172.99" xbr="204.25" ybr="263.77" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="0-02-V2-W.png" width="336" height="448">
+    <box label="acerola" source="file" occluded="0" xtl="131.19" ytl="191.79" xbr="200.49" ybr="277.20" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="0-03-V1-B.png" width="336" height="448">
+    <box label="acerola" source="file" occluded="0" xtl="126.90" ytl="199.31" xbr="209.62" ybr="280.96" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="0-03-V1-W.png" width="336" height="448">
+    <box label="acerola" source="file" occluded="0" xtl="118.84" ytl="188.03" xbr="219.29" ybr="288.48" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="0-03-V2-B.png" width="336" height="448">
+    <box label="acerola" source="file" occluded="0" xtl="136.03" ytl="191.25" xbr="202.10" ybr="270.75" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="0-03-V2-W.png" width="336" height="448">
+    <box label="acerola" source="file" occluded="0" xtl="134.95" ytl="204.14" xbr="212.84" ybr="296.54" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="0-04-V1-B.png" width="336" height="448">
+    <box label="acerola" source="file" occluded="0" xtl="123.14" ytl="208.44" xbr="187.06" ybr="275.05" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="0-04-V1-W.png" width="336" height="448">
+    <box label="acerola" source="file" occluded="0" xtl="131.73" ytl="212.20" xbr="210.70" ybr="295.46" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="0-04-V2-B.png" width="336" height="448">
+    <box label="acerola" source="file" occluded="0" xtl="137.64" ytl="200.38" xbr="204.25" ybr="275.59" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="0-04-V2-W.png" width="336" height="448">
+    <box label="acerola" source="file" occluded="0" xtl="143.01" ytl="210.59" xbr="212.84" ybr="286.87" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="0-05-V1-B.png" width="336" height="448">
+    <box label="acerola" source="file" occluded="0" xtl="138.72" ytl="202.53" xbr="201.03" ybr="269.68" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="0-05-V1-W.png" width="336" height="448">
+    <box label="acerola" source="file" occluded="0" xtl="126.90" ytl="193.94" xbr="202.64" ybr="268.60" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="0-05-V2-B.png" width="336" height="448">
+    <box label="acerola" source="file" occluded="0" xtl="140.86" ytl="197.70" xbr="204.25" ybr="266.45" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="0-05-V2-W.png" width="336" height="448">
+    <box label="acerola" source="file" occluded="0" xtl="146.24" ytl="200.38" xbr="205.32" ybr="265.38" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="1-01-V1-B.png" width="336" height="448">
+    <box label="limao" source="file" occluded="0" xtl="100.04" ytl="153.65" xbr="252.60" ybr="308.35" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="1-01-V1-W.png" width="336" height="448">
+    <box label="limao" source="file" occluded="0" xtl="94.67" ytl="168.15" xbr="254.21" ybr="326.62" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="1-01-V2-B.png" width="336" height="448">
+    <box label="limao" source="file" occluded="0" xtl="91.44" ytl="155.80" xbr="266.02" ybr="304.06" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="1-01-V2-W.png" width="336" height="448">
+    <box label="limao" source="file" occluded="0" xtl="83.92" ytl="172.45" xbr="268.17" ybr="328.23" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="1-02-V1-B.png" width="336" height="448">
+    <box label="limao" source="file" occluded="0" xtl="100.58" ytl="148.81" xbr="239.70" ybr="288.48" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="1-02-V1-W.png" width="336" height="448">
+    <box label="limao" source="file" occluded="0" xtl="111.32" ytl="177.82" xbr="253.67" ybr="318.56" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="1-02-V2-B.png" width="336" height="448">
+    <box label="limao" source="file" occluded="0" xtl="81.24" ytl="160.09" xbr="241.85" ybr="304.59" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="1-02-V2-W.png" width="336" height="448">
+    <box label="limao" source="file" occluded="0" xtl="84.46" ytl="175.67" xbr="240.24" ybr="309.97" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="1-03-V1-B.png" width="336" height="448">
+    <box label="limao" source="file" occluded="0" xtl="107.02" ytl="163.32" xbr="243.46" ybr="298.68" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="1-03-V1-W.png" width="336" height="448">
+    <box label="limao" source="file" occluded="0" xtl="95.74" ytl="148.81" xbr="237.55" ybr="289.55" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="1-03-V2-B.png" width="336" height="448">
+    <box label="limao" source="file" occluded="0" xtl="93.06" ytl="159.02" xbr="244.54" ybr="295.46" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="1-03-V2-W.png" width="336" height="448">
+    <box label="limao" source="file" occluded="0" xtl="89.83" ytl="150.43" xbr="244.54" ybr="297.07" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="1-04-V1-B.png" width="336" height="448">
+    <box label="limao" source="file" occluded="0" xtl="98.43" ytl="172.99" xbr="236.48" ybr="305.67" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="1-04-V1-W.png" width="336" height="448">
+    <box label="limao" source="file" occluded="0" xtl="97.35" ytl="161.17" xbr="238.63" ybr="296.00" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="1-04-V2-B.png" width="336" height="448">
+    <box label="limao" source="file" occluded="0" xtl="94.67" ytl="166.00" xbr="245.07" ybr="309.43" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="1-04-V2-W.png" width="336" height="448">
+    <box label="limao" source="file" occluded="0" xtl="87.68" ytl="159.02" xbr="244.00" ybr="305.67" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="1-05-V1-B.png" width="336" height="448">
+    <box label="limao" source="file" occluded="0" xtl="105.41" ytl="153.65" xbr="244.00" ybr="293.85" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="1-05-V1-W.png" width="336" height="448">
+    <box label="limao" source="file" occluded="0" xtl="92.52" ytl="156.33" xbr="240.78" ybr="299.76" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="1-05-V2-B.png" width="336" height="448">
+    <box label="limao" source="file" occluded="0" xtl="89.83" ytl="176.21" xbr="239.17" ybr="311.04" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="1-05-V2-W.png" width="336" height="448">
+    <box label="limao" source="file" occluded="0" xtl="88.22" ytl="170.30" xbr="247.76" ybr="314.26" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="2-01-V1-B.png" width="336" height="448">
+    <box label="tomate_cereja" source="file" occluded="0" xtl="124.21" ytl="203.61" xbr="184.37" ybr="269.68" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="2-01-V1-W.png" width="336" height="448">
+    <box label="tomate_cereja" source="file" occluded="0" xtl="134.95" ytl="211.66" xbr="197.27" ybr="278.81" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="2-01-V2-B.png" width="336" height="448">
+    <box label="tomate_cereja" source="file" occluded="0" xtl="124.21" ytl="194.47" xbr="200.49" ybr="265.38" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="2-01-V2-W.png" width="336" height="448">
+    <box label="tomate_cereja" source="file" occluded="0" xtl="129.58" ytl="220.26" xbr="202.64" ybr="280.42" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="2-02-V1-B.png" width="336" height="448">
+    <box label="tomate_cereja" source="file" occluded="0" xtl="137.10" ytl="198.77" xbr="192.43" ybr="261.08" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="2-02-V1-W.png" width="336" height="448">
+    <box label="tomate_cereja" source="file" occluded="0" xtl="136.03" ytl="197.16" xbr="188.67" ybr="255.17" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="2-02-V2-B.png" width="336" height="448">
+    <box label="tomate_cereja" source="file" occluded="0" xtl="131.73" ytl="189.10" xbr="205.32" ybr="253.02" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="2-02-V2-W.png" width="336" height="448">
+    <box label="tomate_cereja" source="file" occluded="0" xtl="111.32" ytl="205.22" xbr="186.52" ybr="268.07" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="2-03-V1-B.png" width="336" height="448">
+    <box label="tomate_cereja" source="file" occluded="0" xtl="126.90" ytl="207.90" xbr="195.66" ybr="278.27" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="2-03-V1-W.png" width="336" height="448">
+    <box label="tomate_cereja" source="file" occluded="0" xtl="138.18" ytl="211.13" xbr="205.86" ybr="280.96" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="2-03-V2-B.png" width="336" height="448">
+    <box label="tomate_cereja" source="file" occluded="0" xtl="120.45" ytl="191.25" xbr="213.38" ybr="259.47" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="2-03-V2-W.png" width="336" height="448">
+    <box label="tomate_cereja" source="file" occluded="0" xtl="121.53" ytl="214.35" xbr="200.49" ybr="274.51" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="2-04-V1-B.png" width="336" height="448">
+    <box label="tomate_cereja" source="file" occluded="0" xtl="128.51" ytl="206.29" xbr="185.99" ybr="270.21" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="2-04-V1-W.png" width="336" height="448">
+    <box label="tomate_cereja" source="file" occluded="0" xtl="136.57" ytl="218.11" xbr="204.25" ybr="285.79" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="2-04-V2-B.png" width="336" height="448">
+    <box label="tomate_cereja" source="file" occluded="0" xtl="129.05" ytl="216.50" xbr="204.79" ybr="273.97" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="2-04-V2-W.png" width="336" height="448">
+    <box label="tomate_cereja" source="file" occluded="0" xtl="129.58" ytl="211.13" xbr="208.01" ybr="272.36" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="2-05-V1-B.png" width="336" height="448">
+    <box label="tomate_cereja" source="file" occluded="0" xtl="130.66" ytl="208.98" xbr="194.04" ybr="271.29" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="2-05-V1-W.png" width="336" height="448">
+    <box label="tomate_cereja" source="file" occluded="0" xtl="130.12" ytl="214.89" xbr="197.27" ybr="276.12" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="2-05-V2-B.png" width="336" height="448">
+    <box label="tomate_cereja" source="file" occluded="0" xtl="129.05" ytl="200.92" xbr="204.79" ybr="268.60" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="2-05-V2-W.png" width="336" height="448">
+    <box label="tomate_cereja" source="file" occluded="0" xtl="123.67" ytl="190.18" xbr="201.56" ybr="254.10" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="3-01-V1-B.png" width="336" height="448">
+    <box label="caqui" source="file" occluded="0" xtl="87.15" ytl="147.74" xbr="244.54" ybr="303.52" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="3-01-V1-W.png" width="336" height="448">
+    <box label="caqui" source="file" occluded="0" xtl="91.98" ytl="154.19" xbr="248.30" ybr="312.11" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="3-01-V2-B.png" width="336" height="448">
+    <box label="caqui" source="file" occluded="0" xtl="100.04" ytl="147.74" xbr="235.41" ybr="305.67" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="3-01-V2-W.png" width="336" height="448">
+    <box label="caqui" source="file" occluded="0" xtl="108.63" ytl="168.15" xbr="239.70" ybr="321.25" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="3-02-V1-B.png" width="336" height="448">
+    <box label="caqui" source="file" occluded="0" xtl="88.22" ytl="142.37" xbr="239.17" ybr="305.13" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="3-02-V1-W.png" width="336" height="448">
+    <box label="caqui" source="file" occluded="0" xtl="95.74" ytl="134.31" xbr="248.84" ybr="298.68" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="3-02-V2-B.png" width="336" height="448">
+    <box label="caqui" source="file" occluded="0" xtl="102.72" ytl="155.80" xbr="246.69" ybr="313.73" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="3-02-V2-W.png" width="336" height="448">
+    <box label="caqui" source="file" occluded="0" xtl="103.80" ytl="162.24" xbr="251.52" ybr="326.62" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="3-03-V1-B.png" width="336" height="448">
+    <box label="caqui" source="file" occluded="0" xtl="97.89" ytl="154.19" xbr="262.26" ybr="316.41" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="3-03-V1-W.png" width="336" height="448">
+    <box label="caqui" source="file" occluded="0" xtl="89.83" ytl="167.08" xbr="248.30" ybr="325.54" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="3-03-V2-B.png" width="336" height="448">
+    <box label="caqui" source="file" occluded="0" xtl="101.65" ytl="155.26" xbr="233.26" ybr="311.04" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="3-03-V2-W.png" width="336" height="448">
+    <box label="caqui" source="file" occluded="0" xtl="98.43" ytl="159.56" xbr="242.39" ybr="335.21" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="3-04-V1-B.png" width="336" height="448">
+    <box label="caqui" source="file" occluded="0" xtl="93.06" ytl="160.63" xbr="259.04" ybr="321.78" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="3-04-V1-W.png" width="336" height="448">
+    <box label="caqui" source="file" occluded="0" xtl="91.98" ytl="169.23" xbr="247.76" ybr="320.71" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="3-04-V2-B.png" width="336" height="448">
+    <box label="caqui" source="file" occluded="0" xtl="104.87" ytl="177.28" xbr="246.15" ybr="336.29" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="3-04-V2-W.png" width="336" height="448">
+    <box label="caqui" source="file" occluded="0" xtl="90.91" ytl="167.08" xbr="244.00" ybr="334.14" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="3-05-V1-B.png" width="336" height="448">
+    <box label="caqui" source="file" occluded="0" xtl="86.07" ytl="140.76" xbr="246.15" ybr="307.82" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="3-05-V1-W.png" width="336" height="448">
+    <box label="caqui" source="file" occluded="0" xtl="97.89" ytl="154.72" xbr="243.46" ybr="313.19" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="3-05-V2-B.png" width="336" height="448">
+    <box label="caqui" source="file" occluded="0" xtl="96.28" ytl="158.48" xbr="235.41" ybr="323.93" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="3-05-V2-W.png" width="336" height="448">
+    <box label="caqui" source="file" occluded="0" xtl="105.41" ytl="154.19" xbr="243.46" ybr="318.02" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="4-01-V1-B.png" width="336" height="448">
+    <box label="banana" source="file" occluded="0" xtl="95.74" ytl="137.00" xbr="277.84" ybr="366.37" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="4-01-V1-W.png" width="336" height="448">
+    <box label="banana" source="file" occluded="0" xtl="48.47" ytl="159.56" xbr="304.70" ybr="312.11" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="4-01-V2-B.png" width="336" height="448">
+    <box label="banana" source="file" occluded="0" xtl="68.88" ytl="116.05" xbr="278.92" ybr="320.71" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="4-01-V2-W.png" width="336" height="448">
+    <box label="banana" source="file" occluded="0" xtl="87.15" ytl="83.28" xbr="236.48" ybr="363.68" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="4-02-V1-B.png" width="336" height="448">
+    <box label="banana" source="file" occluded="0" xtl="24.30" ytl="184.27" xbr="286.97" ybr="328.23" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="4-02-V1-W.png" width="336" height="448">
+    <box label="banana" source="file" occluded="0" xtl="23.76" ytl="182.12" xbr="314.91" ybr="315.34" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="4-02-V2-B.png" width="336" height="448">
+    <box label="banana" source="file" occluded="0" xtl="36.65" ytl="174.60" xbr="302.01" ybr="326.62" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="4-02-V2-W.png" width="336" height="448">
+    <box label="banana" source="file" occluded="0" xtl="58.68" ytl="98.86" xbr="226.81" ybr="369.05" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="4-03-V1-B.png" width="336" height="448">
+    <box label="banana" source="file" occluded="0" xtl="33.43" ytl="125.18" xbr="237.02" ybr="351.33" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="4-03-V1-W.png" width="336" height="448">
+    <box label="banana" source="file" occluded="0" xtl="29.67" ytl="130.01" xbr="281.07" ybr="325.01" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="4-03-V2-B.png" width="336" height="448">
+    <box label="banana" source="file" occluded="0" xtl="38.26" ytl="113.36" xbr="265.49" ybr="319.10" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="4-03-V2-W.png" width="336" height="448">
+    <box label="banana" source="file" occluded="0" xtl="73.18" ytl="94.56" xbr="274.62" ybr="401.82" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="4-04-V1-B.png" width="336" height="448">
+    <box label="banana" source="file" occluded="0" xtl="73.72" ytl="87.04" xbr="259.04" ybr="388.93" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="4-04-V1-W.png" width="336" height="448">
+    <box label="banana" source="file" occluded="0" xtl="66.20" ytl="137.00" xbr="312.22" ybr="351.33" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="4-04-V2-B.png" width="336" height="448">
+    <box label="banana" source="file" occluded="0" xtl="80.16" ytl="87.58" xbr="241.31" ybr="384.63" z_order="0">
+    </box>
+  </image>
+  <image id="95" name="4-04-V2-W.png" width="336" height="448">
+    <box label="banana" source="file" occluded="0" xtl="54.92" ytl="94.02" xbr="243.46" ybr="361.53" z_order="0">
+    </box>
+  </image>
+  <image id="96" name="4-05-V1-B.png" width="336" height="448">
+    <box label="banana" source="file" occluded="0" xtl="89.83" ytl="85.97" xbr="264.41" ybr="392.69" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="4-05-V1-W.png" width="336" height="448">
+    <box label="banana" source="file" occluded="0" xtl="54.92" ytl="127.33" xbr="296.11" ybr="402.90" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="4-05-V2-B.png" width="336" height="448">
+    <box label="banana" source="file" occluded="0" xtl="37.73" ytl="134.31" xbr="303.09" ybr="369.59" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="4-05-V2-W.png" width="336" height="448">
+    <box label="banana" source="file" occluded="0" xtl="62.97" ytl="77.37" xbr="297.72" ybr="334.14" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="5-01-V1-B.png" width="336" height="448">
+    <box label="lima" source="file" occluded="0" xtl="71.03" ytl="146.13" xbr="269.78" ybr="343.27" z_order="0">
+    </box>
+  </image>
+  <image id="101" name="5-01-V1-W.png" width="336" height="448">
+    <box label="lima" source="file" occluded="0" xtl="51.69" ytl="131.09" xbr="265.49" ybr="341.66" z_order="0">
+    </box>
+  </image>
+  <image id="102" name="5-01-V2-B.png" width="336" height="448">
+    <box label="lima" source="file" occluded="0" xtl="76.94" ytl="145.59" xbr="269.25" ybr="340.05" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="5-01-V2-W.png" width="336" height="448">
+    <box label="lima" source="file" occluded="0" xtl="79.09" ytl="133.77" xbr="274.62" ybr="327.15" z_order="0">
+    </box>
+  </image>
+  <image id="104" name="5-02-V1-B.png" width="336" height="448">
+    <box label="lima" source="file" occluded="0" xtl="72.11" ytl="130.01" xbr="262.80" ybr="330.91" z_order="0">
+    </box>
+  </image>
+  <image id="105" name="5-02-V1-W.png" width="336" height="448">
+    <box label="lima" source="file" occluded="0" xtl="70.49" ytl="139.68" xbr="246.69" ybr="311.58" z_order="0">
+    </box>
+  </image>
+  <image id="106" name="5-02-V2-B.png" width="336" height="448">
+    <box label="lima" source="file" occluded="0" xtl="76.94" ytl="154.72" xbr="253.67" ybr="349.18" z_order="0">
+    </box>
+  </image>
+  <image id="107" name="5-02-V2-W.png" width="336" height="448">
+    <box label="lima" source="file" occluded="0" xtl="81.24" ytl="154.72" xbr="241.85" ybr="308.35" z_order="0">
+    </box>
+  </image>
+  <image id="108" name="5-03-V1-B.png" width="336" height="448">
+    <box label="lima" source="file" occluded="0" xtl="82.85" ytl="151.50" xbr="261.73" ybr="342.73" z_order="0">
+    </box>
+  </image>
+  <image id="109" name="5-03-V1-W.png" width="336" height="448">
+    <box label="lima" source="file" occluded="0" xtl="73.18" ytl="154.19" xbr="244.54" ybr="325.54" z_order="0">
+    </box>
+  </image>
+  <image id="110" name="5-03-V2-B.png" width="336" height="448">
+    <box label="lima" source="file" occluded="0" xtl="85.54" ytl="152.57" xbr="262.80" ybr="319.63" z_order="0">
+    </box>
+  </image>
+  <image id="111" name="5-03-V2-W.png" width="336" height="448">
+    <box label="lima" source="file" occluded="0" xtl="79.09" ytl="154.19" xbr="255.28" ybr="334.67" z_order="0">
+    </box>
+  </image>
+  <image id="112" name="5-04-V1-B.png" width="336" height="448">
+    <box label="lima" source="file" occluded="0" xtl="68.35" ytl="146.13" xbr="259.04" ybr="343.81" z_order="0">
+    </box>
+  </image>
+  <image id="113" name="5-04-V1-W.png" width="336" height="448">
+    <box label="lima" source="file" occluded="0" xtl="57.60" ytl="128.40" xbr="261.73" ybr="350.25" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="5-04-V2-B.png" width="336" height="448">
+    <box label="lima" source="file" occluded="0" xtl="69.96" ytl="143.98" xbr="270.86" ybr="348.10" z_order="0">
+    </box>
+  </image>
+  <image id="115" name="5-04-V2-W.png" width="336" height="448">
+    <box label="lima" source="file" occluded="0" xtl="55.99" ytl="134.85" xbr="270.86" ybr="346.49" z_order="0">
+    </box>
+  </image>
+  <image id="116" name="5-05-V1-B.png" width="336" height="448">
+    <box label="lima" source="file" occluded="0" xtl="60.29" ytl="133.77" xbr="271.40" ybr="337.36" z_order="0">
+    </box>
+  </image>
+  <image id="117" name="5-05-V1-W.png" width="336" height="448">
+    <box label="lima" source="file" occluded="0" xtl="81.24" ytl="150.43" xbr="238.63" ybr="304.59" z_order="0">
+    </box>
+  </image>
+  <image id="118" name="5-05-V2-B.png" width="336" height="448">
+    <box label="lima" source="file" occluded="0" xtl="67.81" ytl="128.94" xbr="263.88" ybr="323.39" z_order="0">
+    </box>
+  </image>
+  <image id="119" name="5-05-V2-W.png" width="336" height="448">
+    <box label="lima" source="file" occluded="0" xtl="77.48" ytl="141.83" xbr="242.93" ybr="307.28" z_order="0">
+    </box>
+  </image>
+  <image id="120" name="6-01-V1-B.png" width="336" height="448">
+    <box label="limao_laranja" source="file" occluded="0" xtl="78.55" ytl="161.17" xbr="256.36" ybr="326.08" z_order="0">
+    </box>
+  </image>
+  <image id="121" name="6-01-V1-W.png" width="336" height="448">
+    <box label="limao_laranja" source="file" occluded="0" xtl="86.07" ytl="154.19" xbr="250.98" ybr="313.73" z_order="0">
+    </box>
+  </image>
+  <image id="122" name="6-01-V2-B.png" width="336" height="448">
+    <box label="limao_laranja" source="file" occluded="0" xtl="92.52" ytl="159.56" xbr="249.37" ybr="311.58" z_order="0">
+    </box>
+  </image>
+  <image id="123" name="6-01-V2-W.png" width="336" height="448">
+    <box label="limao_laranja" source="file" occluded="0" xtl="110.25" ytl="178.90" xbr="227.35" ybr="305.13" z_order="0">
+    </box>
+  </image>
+  <image id="124" name="6-02-V1-B.png" width="336" height="448">
+    <box label="limao_laranja" source="file" occluded="0" xtl="96.82" ytl="181.58" xbr="239.70" ybr="327.69" z_order="0">
+    </box>
+  </image>
+  <image id="125" name="6-02-V1-W.png" width="336" height="448">
+    <box label="limao_laranja" source="file" occluded="0" xtl="89.83" ytl="163.85" xbr="227.35" ybr="310.50" z_order="0">
+    </box>
+  </image>
+  <image id="126" name="6-02-V2-B.png" width="336" height="448">
+    <box label="limao_laranja" source="file" occluded="0" xtl="97.35" ytl="145.05" xbr="253.67" ybr="311.04" z_order="0">
+    </box>
+  </image>
+  <image id="127" name="6-02-V2-W.png" width="336" height="448">
+    <box label="limao_laranja" source="file" occluded="0" xtl="83.92" ytl="152.04" xbr="238.63" ybr="300.30" z_order="0">
+    </box>
+  </image>
+  <image id="128" name="6-03-V1-B.png" width="336" height="448">
+    <box label="limao_laranja" source="file" occluded="0" xtl="88.22" ytl="167.08" xbr="236.48" ybr="315.87" z_order="0">
+    </box>
+  </image>
+  <image id="129" name="6-03-V1-W.png" width="336" height="448">
+    <box label="limao_laranja" source="file" occluded="0" xtl="112.39" ytl="183.73" xbr="235.41" ybr="315.34" z_order="0">
+    </box>
+  </image>
+  <image id="130" name="6-03-V2-B.png" width="336" height="448">
+    <box label="limao_laranja" source="file" occluded="0" xtl="91.98" ytl="164.39" xbr="249.37" ybr="312.65" z_order="0">
+    </box>
+  </image>
+  <image id="131" name="6-03-V2-W.png" width="336" height="448">
+    <box label="limao_laranja" source="file" occluded="0" xtl="98.96" ytl="157.95" xbr="246.69" ybr="298.68" z_order="0">
+    </box>
+  </image>
+  <image id="132" name="6-04-V1-B.png" width="336" height="448">
+    <box label="limao_laranja" source="file" occluded="0" xtl="86.07" ytl="155.80" xbr="260.65" ybr="313.19" z_order="0">
+    </box>
+  </image>
+  <image id="133" name="6-04-V1-W.png" width="336" height="448">
+    <box label="limao_laranja" source="file" occluded="0" xtl="87.15" ytl="141.29" xbr="266.56" ybr="299.76" z_order="0">
+    </box>
+  </image>
+  <image id="134" name="6-04-V2-B.png" width="336" height="448">
+    <box label="limao_laranja" source="file" occluded="0" xtl="95.20" ytl="148.81" xbr="241.85" ybr="298.68" z_order="0">
+    </box>
+  </image>
+  <image id="135" name="6-04-V2-W.png" width="336" height="448">
+    <box label="limao_laranja" source="file" occluded="0" xtl="82.85" ytl="149.35" xbr="253.67" ybr="316.95" z_order="0">
+    </box>
+  </image>
+  <image id="136" name="6-05-V1-B.png" width="336" height="448">
+    <box label="limao_laranja" source="file" occluded="0" xtl="92.52" ytl="164.93" xbr="240.78" ybr="316.41" z_order="0">
+    </box>
+  </image>
+  <image id="137" name="6-05-V1-W.png" width="336" height="448">
+    <box label="limao_laranja" source="file" occluded="0" xtl="87.68" ytl="140.22" xbr="244.54" ybr="294.92" z_order="0">
+    </box>
+  </image>
+  <image id="138" name="6-05-V2-B.png" width="336" height="448">
+    <box label="limao_laranja" source="file" occluded="0" xtl="89.83" ytl="160.63" xbr="246.15" ybr="309.43" z_order="0">
+    </box>
+  </image>
+  <image id="139" name="6-05-V2-W.png" width="336" height="448">
+    <box label="limao_laranja" source="file" occluded="0" xtl="117.23" ytl="165.47" xbr="263.88" ybr="322.86" z_order="0">
+    </box>
+  </image>
+  <image id="140" name="7-01-V1-B.png" width="336" height="448">
+    <box label="abacate" source="file" occluded="0" xtl="44.71" ytl="146.67" xbr="305.78" ybr="327.69" z_order="0">
+    </box>
+  </image>
+  <image id="141" name="7-01-V1-W.png" width="336" height="448">
+    <box label="abacate" source="file" occluded="0" xtl="61.36" ytl="139.68" xbr="277.31" ybr="346.49" z_order="0">
+    </box>
+  </image>
+  <image id="142" name="7-01-V2-B.png" width="336" height="448">
+    <box label="abacate" source="file" occluded="0" xtl="48.47" ytl="133.77" xbr="292.88" ybr="314.26" z_order="0">
+    </box>
+  </image>
+  <image id="143" name="7-01-V2-W.png" width="336" height="448">
+    <box label="abacate" source="file" occluded="0" xtl="69.96" ytl="106.91" xbr="260.12" ybr="347.57" z_order="0">
+    </box>
+  </image>
+  <image id="144" name="7-02-V1-B.png" width="336" height="448">
+    <box label="abacate" source="file" occluded="0" xtl="86.61" ytl="123.57" xbr="260.12" ybr="345.96" z_order="0">
+    </box>
+  </image>
+  <image id="145" name="7-02-V1-W.png" width="336" height="448">
+    <box label="abacate" source="file" occluded="0" xtl="38.80" ytl="141.29" xbr="292.35" ybr="354.01" z_order="0">
+    </box>
+  </image>
+  <image id="146" name="7-02-V2-B.png" width="336" height="448">
+    <box label="abacate" source="file" occluded="0" xtl="80.16" ytl="133.24" xbr="249.37" ybr="340.58" z_order="0">
+    </box>
+  </image>
+  <image id="147" name="7-02-V2-W.png" width="336" height="448">
+    <box label="abacate" source="file" occluded="0" xtl="57.07" ytl="109.06" xbr="257.97" ybr="354.55" z_order="0">
+    </box>
+  </image>
+  <image id="148" name="7-03-V1-B.png" width="336" height="448">
+    <box label="abacate" source="file" occluded="0" xtl="53.31" ytl="99.93" xbr="260.12" ybr="359.38" z_order="0">
+    </box>
+  </image>
+  <image id="149" name="7-03-V1-W.png" width="336" height="448">
+    <box label="abacate" source="file" occluded="0" xtl="85.00" ytl="76.83" xbr="288.05" ybr="370.13" z_order="0">
+    </box>
+  </image>
+  <image id="150" name="7-03-V2-B.png" width="336" height="448">
+    <box label="abacate" source="file" occluded="0" xtl="39.34" ytl="138.61" xbr="283.21" ybr="319.10" z_order="0">
+    </box>
+  </image>
+  <image id="151" name="7-03-V2-W.png" width="336" height="448">
+    <box label="abacate" source="file" occluded="0" xtl="76.40" ytl="104.77" xbr="272.47" ybr="363.14" z_order="0">
+    </box>
+  </image>
+  <image id="152" name="7-04-V1-B.png" width="336" height="448">
+    <box label="abacate" source="file" occluded="0" xtl="63.51" ytl="96.17" xbr="256.89" ybr="358.85" z_order="0">
+    </box>
+  </image>
+  <image id="153" name="7-04-V1-W.png" width="336" height="448">
+    <box label="abacate" source="file" occluded="0" xtl="43.64" ytl="77.37" xbr="281.07" ybr="344.34" z_order="0">
+    </box>
+  </image>
+  <image id="154" name="7-04-V2-B.png" width="336" height="448">
+    <box label="abacate" source="file" occluded="0" xtl="64.59" ytl="130.01" xbr="289.12" ybr="315.34" z_order="0">
+    </box>
+  </image>
+  <image id="155" name="7-04-V2-W.png" width="336" height="448">
+    <box label="abacate" source="file" occluded="0" xtl="64.05" ytl="81.13" xbr="268.71" ybr="362.61" z_order="0">
+    </box>
+  </image>
+  <image id="156" name="7-05-V1-B.png" width="336" height="448">
+    <box label="abacate" source="file" occluded="0" xtl="74.79" ytl="116.58" xbr="252.06" ybr="364.76" z_order="0">
+    </box>
+  </image>
+  <image id="157" name="7-05-V1-W.png" width="336" height="448">
+    <box label="abacate" source="file" occluded="0" xtl="49.01" ytl="138.61" xbr="275.16" ybr="373.89" z_order="0">
+    </box>
+  </image>
+  <image id="158" name="7-05-V2-B.png" width="336" height="448">
+    <box label="abacate" source="file" occluded="0" xtl="38.80" ytl="111.21" xbr="276.77" ybr="356.70" z_order="0">
+    </box>
+  </image>
+  <image id="159" name="7-05-V2-W.png" width="336" height="448">
+    <box label="abacate" source="file" occluded="0" xtl="53.84" ytl="76.30" xbr="268.71" ybr="362.07" z_order="0">
+    </box>
+  </image>
+  <image id="160" name="8-01-V1-B.png" width="336" height="448">
+    <box label="bergamota" source="file" occluded="0" xtl="60.83" ytl="146.13" xbr="268.17" ybr="349.72" z_order="0">
+    </box>
+  </image>
+  <image id="161" name="8-01-V1-W.png" width="336" height="448">
+    <box label="bergamota" source="file" occluded="0" xtl="71.03" ytl="136.46" xbr="271.93" ybr="342.20" z_order="0">
+    </box>
+  </image>
+  <image id="162" name="8-01-V2-B.png" width="336" height="448">
+    <box label="bergamota" source="file" occluded="0" xtl="57.07" ytl="140.22" xbr="271.40" ybr="351.86" z_order="0">
+    </box>
+  </image>
+  <image id="163" name="8-01-V2-W.png" width="336" height="448">
+    <box label="bergamota" source="file" occluded="0" xtl="61.90" ytl="135.92" xbr="257.97" ybr="325.01" z_order="0">
+    </box>
+  </image>
+  <image id="164" name="8-02-V1-B.png" width="336" height="448">
+    <box label="bergamota" source="file" occluded="0" xtl="70.49" ytl="137.53" xbr="256.89" ybr="316.95" z_order="0">
+    </box>
+  </image>
+  <image id="165" name="8-02-V1-W.png" width="336" height="448">
+    <box label="bergamota" source="file" occluded="0" xtl="57.60" ytl="156.87" xbr="264.95" ybr="354.55" z_order="0">
+    </box>
+  </image>
+  <image id="166" name="8-02-V2-B.png" width="336" height="448">
+    <box label="bergamota" source="file" occluded="0" xtl="64.59" ytl="147.74" xbr="273.54" ybr="311.04" z_order="0">
+    </box>
+  </image>
+  <image id="167" name="8-02-V2-W.png" width="336" height="448">
+    <box label="bergamota" source="file" occluded="0" xtl="77.48" ytl="147.20" xbr="267.64" ybr="311.58" z_order="0">
+    </box>
+  </image>
+  <image id="168" name="8-03-V1-B.png" width="336" height="448">
+    <box label="bergamota" source="file" occluded="0" xtl="56.53" ytl="138.07" xbr="256.89" ybr="335.21" z_order="0">
+    </box>
+  </image>
+  <image id="169" name="8-03-V1-W.png" width="336" height="448">
+    <box label="bergamota" source="file" occluded="0" xtl="55.45" ytl="134.31" xbr="257.97" ybr="334.67" z_order="0">
+    </box>
+  </image>
+  <image id="170" name="8-03-V2-B.png" width="336" height="448">
+    <box label="bergamota" source="file" occluded="0" xtl="67.81" ytl="132.70" xbr="261.19" ybr="333.60" z_order="0">
+    </box>
+  </image>
+  <image id="171" name="8-03-V2-W.png" width="336" height="448">
+    <box label="bergamota" source="file" occluded="0" xtl="54.92" ytl="130.55" xbr="270.32" ybr="351.33" z_order="0">
+    </box>
+  </image>
+  <image id="172" name="8-04-V1-B.png" width="336" height="448">
+    <box label="bergamota" source="file" occluded="0" xtl="55.45" ytl="125.72" xbr="269.25" ybr="351.33" z_order="0">
+    </box>
+  </image>
+  <image id="173" name="8-04-V1-W.png" width="336" height="448">
+    <box label="bergamota" source="file" occluded="0" xtl="44.71" ytl="120.88" xbr="286.97" ybr="347.03" z_order="0">
+    </box>
+  </image>
+  <image id="174" name="8-04-V2-B.png" width="336" height="448">
+    <box label="bergamota" source="file" occluded="0" xtl="58.68" ytl="120.88" xbr="265.49" ybr="336.82" z_order="0">
+    </box>
+  </image>
+  <image id="175" name="8-04-V2-W.png" width="336" height="448">
+    <box label="bergamota" source="file" occluded="0" xtl="70.49" ytl="129.48" xbr="269.25" ybr="336.82" z_order="0">
+    </box>
+  </image>
+  <image id="176" name="8-05-V1-B.png" width="336" height="448">
+    <box label="bergamota" source="file" occluded="0" xtl="65.12" ytl="127.33" xbr="278.38" ybr="343.81" z_order="0">
+    </box>
+  </image>
+  <image id="177" name="8-05-V1-W.png" width="336" height="448">
+    <box label="bergamota" source="file" occluded="0" xtl="69.96" ytl="144.00" xbr="260.70" ybr="333.60" z_order="0">
+    </box>
+  </image>
+  <image id="178" name="8-05-V2-B.png" width="336" height="448">
+    <box label="bergamota" source="file" occluded="0" xtl="83.39" ytl="147.74" xbr="258.50" ybr="298.68" z_order="0">
+    </box>
+  </image>
+  <image id="179" name="8-05-V2-W.png" width="336" height="448">
+    <box label="bergamota" source="file" occluded="0" xtl="69.96" ytl="137.00" xbr="263.34" ybr="330.38" z_order="0">
+    </box>
+  </image>
+  <image id="180" name="9-01-V1-B.png" width="336" height="448">
+    <box label="pera" source="manual" occluded="0" xtl="101.11" ytl="161.71" xbr="227.89" ybr="290.63" z_order="0">
+    </box>
+  </image>
+  <image id="181" name="9-01-V1-W.png" width="336" height="448">
+    <box label="pera" source="manual" occluded="0" xtl="110.25" ytl="148.81" xbr="244.54" ybr="292.24" z_order="0">
+    </box>
+  </image>
+  <image id="182" name="9-01-V2-B.png" width="336" height="448">
+    <box label="pera" source="manual" occluded="0" xtl="101.11" ytl="148.81" xbr="234.87" ybr="333.06" z_order="0">
+    </box>
+  </image>
+  <image id="183" name="9-01-V2-W.png" width="336" height="448">
+    <box label="pera" source="manual" occluded="0" xtl="109.17" ytl="137.53" xbr="238.09" ybr="335.75" z_order="0">
+    </box>
+  </image>
+  <image id="184" name="9-02-V1-B.png" width="336" height="448">
+    <box label="pera" source="manual" occluded="0" xtl="97.89" ytl="164.39" xbr="251.52" ybr="306.20" z_order="0">
+    </box>
+  </image>
+  <image id="185" name="9-02-V1-W.png" width="336" height="448">
+    <box label="pera" source="manual" occluded="0" xtl="95.74" ytl="164.39" xbr="240.24" ybr="301.37" z_order="0">
+    </box>
+  </image>
+  <image id="186" name="9-02-V2-B.png" width="336" height="448">
+    <box label="pera" source="manual" occluded="0" xtl="85.54" ytl="144.52" xbr="255.28" ybr="338.44" z_order="0">
+    </box>
+  </image>
+  <image id="187" name="9-02-V2-W.png" width="336" height="448">
+    <box label="pera" source="manual" occluded="0" xtl="94.67" ytl="116.05" xbr="256.36" ybr="325.01" z_order="0">
+    </box>
+  </image>
+  <image id="188" name="9-03-V1-B.png" width="336" height="448">
+    <box label="pera" source="manual" occluded="0" xtl="98.96" ytl="155.26" xbr="244.54" ybr="297.61" z_order="0">
+    </box>
+  </image>
+  <image id="189" name="9-03-V1-W.png" width="336" height="448">
+    <box label="pera" source="manual" occluded="0" xtl="109.71" ytl="145.59" xbr="252.60" ybr="287.94" z_order="0">
+    </box>
+  </image>
+  <image id="190" name="9-03-V2-B.png" width="336" height="448">
+    <box label="pera" source="manual" occluded="0" xtl="100.04" ytl="122.49" xbr="252.06" ybr="336.82" z_order="0">
+    </box>
+  </image>
+  <image id="191" name="9-03-V2-W.png" width="336" height="448">
+    <box label="pera" source="manual" occluded="0" xtl="104.87" ytl="132.16" xbr="231.65" ybr="325.01" z_order="0">
+    </box>
+  </image>
+  <image id="192" name="9-04-V1-B.png" width="336" height="448">
+    <box label="pera" source="manual" occluded="0" xtl="88.76" ytl="170.30" xbr="239.70" ybr="319.63" z_order="0">
+    </box>
+  </image>
+  <image id="193" name="9-04-V1-W.png" width="336" height="448">
+    <box label="pera" source="manual" occluded="0" xtl="105.41" ytl="159.56" xbr="250.45" ybr="301.91" z_order="0">
+    </box>
+  </image>
+  <image id="194" name="9-04-V2-B.png" width="336" height="448">
+    <box label="pera" source="manual" occluded="0" xtl="96.28" ytl="129.48" xbr="255.28" ybr="319.10" z_order="0">
+    </box>
+  </image>
+  <image id="195" name="9-04-V2-W.png" width="336" height="448">
+    <box label="pera" source="manual" occluded="0" xtl="97.89" ytl="125.18" xbr="249.91" ybr="315.34" z_order="0">
+    </box>
+  </image>
+  <image id="196" name="9-05-V1-B.png" width="336" height="448">
+    <box label="pera" source="manual" occluded="0" xtl="107.56" ytl="136.46" xbr="247.22" ybr="282.03" z_order="0">
+    </box>
+  </image>
+  <image id="197" name="9-05-V1-W.png" width="336" height="448">
+    <box label="pera" source="manual" occluded="0" xtl="91.44" ytl="156.87" xbr="250.98" ybr="304.06" z_order="0">
+    </box>
+  </image>
+  <image id="198" name="9-05-V2-B.png" width="336" height="448">
+    <box label="pera" source="manual" occluded="0" xtl="96.28" ytl="124.64" xbr="245.07" ybr="352.40" z_order="0">
+    </box>
+  </image>
+  <image id="199" name="9-05-V2-W.png" width="336" height="448">
+    <box label="pera" source="manual" occluded="0" xtl="103.80" ytl="116.05" xbr="244.00" ybr="337.90" z_order="0">
+    </box>
+  </image>
+</annotations>

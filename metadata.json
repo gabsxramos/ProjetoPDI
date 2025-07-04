@@ -1,0 +1,63 @@
+{
+    "autores":[
+        "Eduardo Bif Pitol",
+        "Eduardo Bombonatto Lorenzetti",
+        "Gabriela Strieder Ramos",
+        "Jose Vitor Montanger Ribeiro da Silva"
+    ],
+    "descricao":"Base de dados de imagens de 10 frutas aleatorias.",
+    "resolucao_imagens_original":{
+        "largura":"3024",
+        "altura":"4032"
+    },
+    "resolucao_imagens_resize":{
+        "largura":"336",
+        "altura":"448"
+    },
+    "num_classes":"10",
+    "classes":[
+        {
+            "id":"0",
+            "nome":"acerola"
+        },
+        {
+            "id":"1",
+            "nome":"lemon"
+        },
+        {
+            "id":"2",
+            "nome":"cherry_tomato"
+        },
+        {
+            "id":"3",
+            "nome":"khaki"
+        },
+        {
+            "id":"4",
+            "nome":"banana"
+        },
+        {
+            "id":"5",
+            "nome":"lime"
+        },
+        {
+            "id":"6",
+            "nome":"orange_lemon"
+        },
+        {
+            "id":"7",
+            "nome":"avocado"
+        },
+        {
+            "id":"8",
+            "nome":"tangerine"
+        },
+        {
+            "id":"9",
+            "nome":"pear"
+        }
+    ],
+    "camera_model": "iPhone 12 e iPhone 13",
+    "feature_used": "Modo Retrato (Portrait Mode)",
+    "lighting_condition": "Luz Natural (Natural Light)"
+}
